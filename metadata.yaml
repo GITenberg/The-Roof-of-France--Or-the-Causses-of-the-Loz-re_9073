@@ -1,0 +1,26 @@
+_repo: The-Roof-of-France--Or-the-Causses-of-the-Loz-re_9073
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Betham-Edwards, Matilda
+    alias: Betham-Edwards, Matilda Barbara
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '2866'
+    url: http://www.gutenberg.org/2009/agents/2866
+    wikipedia: http://en.wikipedia.org/wiki/Matilda_Betham-Edwards
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Lozère (France : Dept.) -- Description and travel'
+- GITenberg
+title: The Roof of France; Or, the Causses of the Lozère
+url: http://www.gutenberg.org/ebooks/9073
